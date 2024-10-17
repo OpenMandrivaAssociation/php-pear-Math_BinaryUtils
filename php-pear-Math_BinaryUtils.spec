@@ -8,7 +8,7 @@ Release:	16
 Summary:	Collection of helper methods for easy handling of binary data
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Math_BinaryUtils/
+URL:		https://pear.php.net/package/Math_BinaryUtils/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
